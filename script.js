@@ -1,6 +1,6 @@
-alert(
-  "Hello, welcome to the Random Color Generator. \nTo measure colors, press the space bar"
-);
+// alert(
+//   "Hello, welcome to the Random Color Generator. \nTo measure colors, press the space bar"
+// );
 
 const cols = document.querySelectorAll(".col");
 
